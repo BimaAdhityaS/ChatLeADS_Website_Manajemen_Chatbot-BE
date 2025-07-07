@@ -68,21 +68,6 @@ node server.js
 
 Secara default server berjalan di [http://localhost:8000](http://localhost:8000)
 
-## Struktur Folder (Opsional Tambahan)
-
-```
-server/
-│
-├── controllers/       # Logic aplikasi
-├── models/            # Model MongoDB (Mongoose)
-├── routes/            # Routing API
-├── utils/             # Utilitas seperti token, email, dll.
-├── config/            # Konfigurasi koneksi database
-├── middleware/        # Auth middleware, error handler, dll.
-├── server.js          # Entry point server
-└── .env               # Variabel lingkungan (jangan upload ke git)
-```
-
 ## Fitur Utama
 
 * Autentikasi dan otorisasi JWT
