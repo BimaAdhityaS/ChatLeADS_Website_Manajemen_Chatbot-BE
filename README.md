@@ -1,6 +1,6 @@
-# Server ChatLeADS – Backend (MERN Stack)
+# Server ChatLeADS Website Manajemen Chatbot – Backend (MERN Stack)
 
-Ini adalah bagian backend dari aplikasi ChatLeADS yang dibangun menggunakan **MERN Stack** (MongoDB, Express.js, React, Node.js).
+Ini adalah bagian backend dari Website Manajemen Chatbot - ChatLeADS yang dibangun menggunakan **MERN Stack** (MongoDB, Express.js, React, Node.js).
 
 ## Persiapan Awal
 
